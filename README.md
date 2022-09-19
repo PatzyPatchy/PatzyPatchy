@@ -1,8 +1,8 @@
 Olá! 
 Me chamo Patricia ✌️, prazer!
 
-Atualmente estou aprendo Front-end mas minha abaxio deixei um resumo da trajetória dentro da area de Tecnologia, porém comecei agora
-minhas aventuras como  de desenvolvedora 👀
+Atualmente estou aprendo Front-end, abaxio deixei um resumo da trajetória dentro da area de Tecnologia em si, porém comecei agora
+minhas aventuras como desenvolvedora 👀
 
 ***
 Experiência de 6 anos na área de tecnologia em empresas como: Linked Gourmet, Agtech Soluções em Tecnologias e Concentrix Brasil e Atento
